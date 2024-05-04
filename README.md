@@ -1,6 +1,6 @@
 # shipsys-vuemaster
 基于Springboot+Vue的海运物流代理系统 By Diamond_Dogs
-This template should help get you started developing with Vue 3 in Vite.
+
 
 ## Recommended IDE Setup
 
