@@ -1,6 +1,7 @@
 # shipsys-vuemaster
 基于Springboot+Vue的海运物流代理系统 By Diamond_Dogs
-<br> Build By Springboot and Vue with offical libraries
+<br> Build by Springboot and Vue with offical libraries
+<br> UI design by Vuetify
 
 ## Project preview
 
